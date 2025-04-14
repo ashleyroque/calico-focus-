@@ -2,7 +2,7 @@
 
 Calico-Focus transforms task management into a fun and engaging experience, blending **rewards**, **customization**, and **accountability** to keep you on top of your goals. Developed during the **Axe Hacks Hackathon** at UNC Charlotte, this app uses gamified elements to motivate users to achieve personal and academic success.  
 
-[**Explore the Figma prototype **](https://www.figma.com/proto/ObyvPXYle8OxBCt5e8tv8Q/Gaming?node-id=8-58&t=PvpV45N97mmr8RsP-1)  
+[**Explore the Figma prototype →**](https://www.figma.com/proto/ObyvPXYle8OxBCt5e8tv8Q/Gaming?node-id=8-58&t=PvpV45N97mmr8RsP-1)  💻
 
 ---
 
